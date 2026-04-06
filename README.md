@@ -1,4 +1,4 @@
-# Misinformation Diffusion Model (Based on SBFC framework by Sulis & Tambuscio, 2020)
+# Misinformation Diffusion Simulation Model (Based on SBFC framework by Sulis & Tambuscio, 2020)
 
 > An agent-based model of Foreign Information Manipulation and Interference (FIMI) diffusion in social networks, built in NetLogo. Extends the SBFC framework (Sulis & Tambuscio, 2020) with asymmetric spreading and forgetting dynamics to simulate contrasting EU information ecosystems.
 
