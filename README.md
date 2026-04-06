@@ -1,6 +1,9 @@
-# Misinformation diffusion model (based on SBFC framework by Sulis & Tambuscio, 2020)
+# Misinformation Diffusion Model (Based on SBFC framework by Sulis & Tambuscio, 2020)
 
 > An agent-based model of Foreign Information Manipulation and Interference (FIMI) diffusion in social networks, built in NetLogo. Extends the SBFC framework (Sulis & Tambuscio, 2020) with asymmetric spreading and forgetting dynamics to simulate contrasting EU information ecosystems.
+
+**Authors:**  Adarsh Tripathi & Francesco Gallo
+**Course:** The Science & Ethics of Intelligent Technology
 
 ---
 
@@ -165,7 +168,7 @@ sbfc-fimi-abm/
 │   ├── Original_Sulis2020.nlogo          # Baseline model by Sulis & Tambuscio (2020)
 │   └── Updated_SBFC_FIMI.nlogo           # Extended model (this project)
 ├── docs/
-│   ├── report.docx                       # Full project report
+│   ├── report.pdf                        # Full project report
 │   └── presentation.pptx                 # Project presentation
 ```
 
@@ -201,6 +204,23 @@ The theoretical SBFC framework is based on:
 Tambuscio, M., Ruffo, G., Flammini, A., & Menczer, F. (2015).
 Fact-checking effect on viral hoaxes: A model of misinformation spread in social networks.
 Proceedings of the 24th International Conference on World Wide Web (WWW '15).
+```
+
+Empirical basis for asymmetric diffusion (misinformation spreads faster than corrections):
+
+```
+Vosoughi, S., Roy, D., & Aral, S. (2018).
+The spread of true and false news online.
+Science, 359(6380), 1146–1151.
+DOI: 10.1126/science.aap9559
+```
+
+Empirical grounding for scenario design:
+
+```
+European Digital Media Observatory. (2025).
+How is disinformation addressed in the member states of the European Union? – 27 country cases.
+EUI Florence School of Transnational Governance.
 ```
 
 ---
